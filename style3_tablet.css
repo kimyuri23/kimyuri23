@@ -1,0 +1,57 @@
+.B {
+    font-size: 20px;
+}
+
+.header__text1 {
+    font-size: 18px;
+}
+
+.main__text1 {
+    font-size: 50px;
+}
+
+.text1 {
+    font-size: 22px;
+}
+
+.flex__second {
+    margin-top: -14px;
+    width: 50%;
+}
+
+.header__h1 {
+    font-size: 50px;
+}
+
+.flex {
+    width: 85%;
+    height: 53px;
+    margin-top: 270px;
+}
+
+.text__1 {
+    font-size: 20px;
+}
+
+.text__2 {
+    font-size: 19px;
+}
+
+.picture__1 {
+    width: 61.5%;
+    margin-left: -18%;
+    margin-top: -135px;
+    height: 353px;
+}
+
+.text__4 {
+    font-size: 21px;
+}
+
+.text__5 {
+    font-size: 22px;
+}
+
+.wrap {
+    height: 1241px;
+}

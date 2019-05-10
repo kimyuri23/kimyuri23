@@ -1,0 +1,47 @@
+.hb {
+    font-size: 21px;
+}
+
+.blok__flex {
+    width: 18.95%;
+}
+
+
+.textp  {
+    font-size: 19px;
+}
+
+.header {
+    font-size: 50px;
+    margin-top: -84px;
+}
+
+.blok1__flex {
+    width: 73%;
+    height: 45px;
+    margin-top: -131px;
+    font-size: 25px;
+}
+
+.header1 {
+    font-size: 50px;
+}
+
+
+.blok3__flex {
+    font-size: 16px;
+    margin-top: -38px;
+    margin-left: 38%;
+}
+
+.picture {
+    margin-top: 56px;
+    width: 60%;
+    margin-left: -24%;
+    height: 488px;
+}
+
+.wrap {
+    height: 978px;
+
+}

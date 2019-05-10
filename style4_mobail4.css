@@ -1,0 +1,83 @@
+.blok__flex {
+    width: 52.95%;
+    margin-top: 0px;
+}
+
+.blok {
+   margin-top: -53px; 
+}
+
+.hb  {
+    font-size: 20px;
+}
+
+.textp {
+    font-size: 19px;
+}
+
+.textp__1 {
+    font-size: 10px;
+}
+
+.header {
+    font-size: 25px;
+}
+
+.blok1__flex {
+    width: 93%;
+}
+
+.blok1__flex {
+    font-size: 13px;
+    width: 97%;
+    margin-top: -104px;
+}
+.blok1 {
+    margin-top: -75px;
+}
+
+.picture {
+    width: 55%;
+    height: 111px;
+    margin-top: -27px;
+    margin-left: -45%;
+}
+
+.header1 {
+    font-size: 20px;
+    margin-top: 362px;
+    margin-left: -12%;
+}
+
+.blok3__flex {
+    width: 100%;
+    font-size: 12px;
+    margin-left: 13%;
+    margin-top: -20px;
+}
+
+.text2 {
+    font-size: 10px;
+}
+
+.text3 {
+    font-size: 11px;
+    margin-top: 24px;
+}
+
+.footer {
+    width: 96%;
+    margin-top: 285px;
+}
+
+.text4 {
+    font-size: 13px;
+}
+
+.footer__flex {
+    width: 43%;
+}
+
+.wrap {
+    height: 362px;
+}

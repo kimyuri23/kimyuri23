@@ -1,0 +1,70 @@
+.header__flex {
+    width: 32%;
+}
+
+.B {
+    font-size: 30px;
+}
+
+.main {
+    height: 122px;
+}
+
+.main__text1 {
+    font-size: 47px;
+}
+
+.flex__second  {
+    width: 72%;
+    margin-top: -32px;
+}
+
+.text__1 {
+    font-size: 32px;
+}
+
+.flex__second2 {
+    width: 58%;
+    height: 19px;
+}
+
+.text__2 {
+    font-size: 30px;
+}
+
+.text5 {
+    font-size: 30px;
+}
+
+.h__r {
+    width: 10%;
+    margin-top: 50px;
+}
+
+.flex__second3 {
+    height: 184px;
+}
+
+.flex__second4 {
+    margin-top: 25px;
+}
+
+.text__6 {
+    font-size: 12px;
+}
+
+.text__7{
+    font-size: 12px;
+}
+
+.footer1__flex1 {
+    width: 31%;
+}
+
+.footer {
+    width: 95%;
+}
+
+.wrap {
+    height: 688px;
+}

@@ -1,0 +1,70 @@
+.blok__flex {
+    width: 31.95%;
+}
+
+.hb  {
+    font-size: 30px;
+}
+
+.textp {
+    font-size: 20px;
+}
+
+.textp__1 {
+    font-size: 12px;
+}
+
+.header {
+    font-size: 40px;
+}
+
+.blok1__flex {
+    width: 93%;
+}
+
+.blok1__flex {
+    font-size: 21px;
+}
+.blok1 {
+    margin-top: -47px;
+}
+
+.picture {
+    width: 67%;
+    height: 228px;
+    margin-top: 38px;
+}
+
+.header1 {
+    font-size: 35px;
+    margin-top: 283px;
+    margin-left: 18%;
+}
+
+.blok3__flex {
+    width: 100%;
+    font-size: 12px;
+    margin-left: 45%;
+    margin-top: -31px;
+}
+
+.text3 {
+    font-size: 11px;
+    margin-top: 44px;
+}
+
+.footer {
+    width: 96%;
+}
+
+.text4 {
+    font-size: 13px;
+}
+
+.footer__flex {
+    width: 22%;
+}
+
+.wrap {
+    height: 640px;
+}

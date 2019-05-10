@@ -1,0 +1,78 @@
+.header__flex {
+    width: 30%;
+}
+
+.B {
+    font-size: 30px;
+}
+
+.header__text1 {
+    font-size: 22px;
+}
+
+.main {
+    margin-top: -77px;
+}
+
+.main__text1 {
+    font-size: 46px;
+}
+
+.flex__second {
+    width: 103%;
+    margin-top: -23px;
+}
+
+.text1 {
+    font-size: 22px;
+}
+
+.picture__1 {
+    margin-top: -239px;
+    height: 238px;
+    width: 63%;
+}
+
+.header__h1 {
+    font-size: 38px;
+    margin-top: -104px;
+    margin-right: -83px;
+}
+
+.text__1 {
+    font-size: 18px;
+    margin-right: -31%;
+}
+
+.text__2 {
+    margin-top: -75px;
+    margin-right: -37%;
+    font-size: 17px;
+}
+
+.flex1 {
+    margin-top: -12px;
+    width: 85%;
+}
+
+.text__4 {
+    width: 70%;
+    font-size: 20px;
+}
+
+.text__5 {
+    width: 69%;
+    font-size: 20px;
+}
+
+.footer {
+    width: 95.7%;
+}
+
+.footer1__flex1 {
+    width: 32%;
+}
+
+.wrap {
+    height: 1134px;
+}

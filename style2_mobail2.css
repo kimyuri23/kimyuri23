@@ -1,0 +1,96 @@
+.header__flex {
+    width: 54%;
+}
+
+.header {
+    margin-top: -46px;
+}
+
+.B {
+    font-size: 23px;
+}
+
+.header__text1 {
+    font-size: 20px;
+}
+
+.header__text2 {
+    font-size: 12px;
+}
+
+.main {
+    height: 122px;
+}
+
+.main__text1 {
+    font-size: 24px;
+    margin-top: -58px;
+}
+
+.flex__second  {
+    width: 94%;
+    margin-top: -59px;
+}
+
+.text__1 {
+    font-size: 25px;
+    margin-top: -38px;
+}
+
+.flex__second2 {
+    width: 77%;
+    height: 98px;
+    margin-top: -149px;
+}
+
+.text__2 {
+    font-size: 20px;
+}
+
+.text5 {
+    font-size: 20px;
+}
+
+.hr2 {
+    margin-top: -60px;
+}
+
+.h__r {
+    width: 10%;
+    margin-top: -10px;
+}
+
+
+
+.flex__second3 {
+    height: 100px;
+    margin-left: -6%;
+}
+
+.flex__second4 {
+    margin-top: 25px;
+}
+
+.text__6 {
+    font-size: 12px;
+}
+
+.text__7{
+    font-size: 12px;
+}
+
+.footer1__flex1 {
+    width: 49%;
+}
+
+.footer {
+    width: 95%;
+}
+
+.wrap {
+    height: 498px;
+}
+
+.footer__text {
+    font-size: 10px;
+}

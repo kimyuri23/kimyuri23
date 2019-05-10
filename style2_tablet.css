@@ -1,0 +1,56 @@
+.B {
+    font-size: 20px;
+}
+
+.header__text {
+    font-size: 19px;
+}
+
+.header__flex {
+    width: 16%;
+}
+
+.header__text1 {
+    font-size: 20px;
+}
+
+.main__text1 {
+    font-size: 45px;
+}
+
+.text__1 {
+    font-size: 33px;
+}
+
+.main {
+    height: 43px;
+}
+
+.flex__second {
+    margin-top: -22px;
+}
+
+.flex__second2 {
+    width: 48%;
+}
+
+.text__2 {
+    font-size: 26px;
+}
+
+.flex__second2 {
+    width: 33%;
+}
+
+.text5 {
+    font-size: 30px;
+}
+
+.flex__second3 {
+    width: 90%;
+    height: 298px;
+}
+
+.wrap {
+    height: 867px;
+}
